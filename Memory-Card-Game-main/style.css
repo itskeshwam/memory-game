@@ -13,12 +13,12 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: rgb(223, 125, 149);
+    background: rgb(125, 179, 223);
 }
 
 .card .front-view span {
     font-size: 40px;
-    color: rgb(223, 125, 149);
+    color: rgb(125, 179, 223);
 }
 
 .wrapper {
